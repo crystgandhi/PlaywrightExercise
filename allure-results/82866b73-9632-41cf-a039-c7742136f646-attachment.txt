@@ -1,0 +1,21 @@
+[INFO] [5/27/2026, 12:21:23 PM] Making Post Call
+{
+  data: {
+    id: '86a44d38-ccaf-4737-86f9-9f5512a9f91f',
+    collection_id: '4080d5d8-4884-41b0-a537-5c8738a23e58',
+    project_id: 25350,
+    app_user_id: null,
+    created_by: 119209,
+    created_at: '2026-05-27T16:21:23.772Z',
+    updated_at: '2026-05-27T16:21:23.772Z',
+    deleted_at: null,
+    data: {
+      name: 'Wireless Headphones',
+      price: 59.99,
+      category: 'Electronics',
+      in_stock: true
+    }
+  }
+}
+[SUCCESS] API validated successfully with status: 201
+[INFO] [5/27/2026, 12:21:24 PM] List of users: {"data":{"id":"86a44d38-ccaf-4737-86f9-9f5512a9f91f","collection_id":"4080d5d8-4884-41b0-a537-5c8738a23e58","project_id":25350,"app_user_id":null,"created_by":119209,"created_at":"2026-05-27T16:21:23.772Z","updated_at":"2026-05-27T16:21:23.772Z","deleted_at":null,"data":{"name":"Wireless Headphones","price":59.99,"category":"Electronics","in_stock":true}}}

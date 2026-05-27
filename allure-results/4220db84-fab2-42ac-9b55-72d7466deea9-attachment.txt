@@ -1,0 +1,8 @@
+[INFO] [5/27/2026, 12:11:55 PM] Making Post Call
+{
+  error: 'environment_required',
+  message: 'Environment is required. Set X-Reqres-Env or use an environment-scoped key.',
+  hint: 'Send X-Reqres-Env: prod or dev, or use the environment-scoped project key from /api-keys.'
+}
+[SUCCESS] API validated successfully with status: 400
+[INFO] [5/27/2026, 12:11:55 PM] List of users: {"error":"environment_required","message":"Environment is required. Set X-Reqres-Env or use an environment-scoped key.","hint":"Send X-Reqres-Env: prod or dev, or use the environment-scoped project key from /api-keys."}
